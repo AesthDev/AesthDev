@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AesthDev
-- 👀 I’m interested in game developement
-- 🌱 I’m currently learning c# 
+- 👀 I’m interested in game developement and other coding stuff
+- 🌱 I’m currently learning C# 
 - 📫 How to reach me on discord : aesth#2001 <3
 
 <!---
